@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **biswaranjan.das694@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **My non-alcoholic drink of choice is <i>Coffee</i> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png?v8" height="30" width="30" />**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
