@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **My non-alcoholic drink of choice is <i>Coffee</i> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png?v8" height="30" width="30" />**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also find me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/biswaranjan-das-3b403a171/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="biswa_ranjan" height="30" width="30" /></a>
 <a href="https://twitter.com/biswadas_1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@biswadas_1997" height="30" width="30" /></a>
