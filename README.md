@@ -1,9 +1,9 @@
 
-<h1 align='center'>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I am Biswaranjan </h1><h2 align='center'><span><i>I'm an aspiring FullStack(MERN) developer  <img src="https://camo.githubusercontent.com/fea8a994831fbbacb088437114ba7c2c142f35076f8d1f1a602cc72fcebd8441/687474703a2f2f616e797468696e672e636f6465732f736c61636b2d656d6f6a692d666f722d746563686965732f656d6f6a692f6861727279706f747465722e706e67" width="30px"/> and passionate about learning new technologies <img src="https://camo.githubusercontent.com/7ec2716c5e23aa1f894ff4b52ace074cb0e3dc4f9712e4f6dd9487dae26f84f4/687474703a2f2f616e797468696e672e636f6465732f736c61636b2d656d6f6a692d666f722d746563686965732f656d6f6a692f66696e6765727363726f737365642e706e67" width="30px"/></i></span></h2><br><br>
+<h1 align='center'>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I am Biswaranjan </h1><h2 align='center'><span><i>I'm a software developer  <img src="https://camo.githubusercontent.com/fea8a994831fbbacb088437114ba7c2c142f35076f8d1f1a602cc72fcebd8441/687474703a2f2f616e797468696e672e636f6465732f736c61636b2d656d6f6a692d666f722d746563686965732f656d6f6a692f6861727279706f747465722e706e67" width="30px"/> and passionate about learning new technologies <img src="https://camo.githubusercontent.com/7ec2716c5e23aa1f894ff4b52ace074cb0e3dc4f9712e4f6dd9487dae26f84f4/687474703a2f2f616e797468696e672e636f6465732f736c61636b2d656d6f6a692d666f722d746563686965732f656d6f6a692f66696e6765727363726f737365642e706e67" width="30px"/></i></span></h2><br><br>
 
 
 
-- 🌱 I’m currently learning **JavaScript, Nodejs, Expressjs, MongoDB, React, Firebase and React-native**
+- 🌱 I’m currently working with technologies like **JavaScript, Nodejs, Expressjs, MongoDB, React, Firebase and React-native**
 
 - 📫 You can reach me out at my mail id  **biswaranjan.das694@gmail.com**
 
