@@ -35,5 +35,3 @@
 </span>
  
 </h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswa7064&langs_count=10&theme=merko" alt="biswa7064" /></p>
