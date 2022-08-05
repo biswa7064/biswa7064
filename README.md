@@ -21,17 +21,16 @@
 <h3 align="left">Languages and Tools:<br><br>
 
 <span align="left">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width="70px"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width="70px" />
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="70px"/>
   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" width="70px"/>
-   
-</span><br>
+</span><br><br>
 <span align="left">  
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/455/nodejs-new-black-512.png" width="80px"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="80px"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-256.png" width="70px"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-256.png" width="70px"/>
-</span><br>
+  <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-256.png" width="80px"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-256.png" width="80px"/>
+</span><br><br>
 <span align="left">
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="80px"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width="80px"/>
