@@ -36,5 +36,4 @@
  
 </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=biswa7064&show_icons=true&theme=merko&hide=stars,prs,contribs" alt="biswa7064" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswa7064&langs_count=10&theme=merko" alt="biswa7064" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswa7064&langs_count=10&theme=merko" alt="biswa7064" /></p>
