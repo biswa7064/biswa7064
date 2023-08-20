@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently working with technologies like **JavaScript, Nodejs, Expressjs, MongoDB, React, Firebase and React-native**
+- 🌱 I’m currently working with technologies like **JavaScript, Typescript, ReactJS, NextJS, ReactNative, Nodejs, Expressjs, and MongoDB**
 
-- 📫 You can reach me out at my mail id  **biswaranjan.das694@gmail.com**
+- 📫 You can reach me at my mail id  **biswaranjan.das694@gmail.com**
 
 - ⚡ Fun fact **My non-alcoholic drink of choice is <i>Coffee</i> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png?v8" height="30" width="30" />**
 
