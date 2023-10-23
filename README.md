@@ -1,12 +1,15 @@
-<h1 align='center'>Hi there, I am Biswaranjan Das 👋</h1>
-<p align="center">
+
+<div align='center'>
+<h1>Hi there, I am Biswaranjan Das 👋</h1>
+<p>
   <a href="https://www.linkedin.com/in/biswaranjan-das-3b403a171/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="https://twitter.com/biswadas_1997"><img src="https://img.shields.io/badge/Twitter-Follow-red"></a>
   <a href="https://www.instagram.com/biswadas_1997/"><img src="https://img.shields.io/badge/Instagram-Follow-violet"></a>
 </p>
-<h3 align="center">
+<h3>
   🚀 Full-Stack Developer | 🌱 Passionate Learner
 </h3>
+</div>
 
 ---
 
