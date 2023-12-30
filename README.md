@@ -22,13 +22,17 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 - 📫 You can reach me at <i>biswaranjan.das694@gmail.com</i>.
 - ⚡ Fun fact: My non-alcoholic drink of choice is a freshly brewed cup of <i>Coffee</i>. ☕
 
-## Tech Stack
+## Skills
 
 - 💻 Frontend: [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Material-UI](https://mui.com/), [Tailwind CSS](https://tailwindcss.com/)
 - 🌐 Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [GraphQL](https://graphql.org/)
 - 📱 Mobile: [React Native](https://reactnative.dev/)
 - 🛠️ Database: [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
 - ⚙️ Testing: [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/), [Mocha](https://mochajs.org/), [Cypress](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
+
+### In my learning list
+ - 🌐 Backend: [KafkaJS](https://kafka.js.org/docs/getting-started)
+ - ☁️ Cloud: [AWS](https://docs.aws.amazon.com/)
 
 ## Certifications
 
