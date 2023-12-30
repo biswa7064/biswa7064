@@ -28,7 +28,7 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 - 🌐 Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [GraphQL](https://graphql.org/)
 - 📱 Mobile: [React Native](https://reactnative.dev/)
 - 🛠️ Database: [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
-- ⚙️ Testing: [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/), [Mocha](https://mochajs.org/)
+- ⚙️ Testing: [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/), [Mocha](https://mochajs.org/), [Cypress](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
 
 ## Certifications
 
