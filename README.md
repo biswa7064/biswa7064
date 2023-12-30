@@ -39,3 +39,9 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 - HackerRank: [JavaScript(Basic)](https://www.hackerrank.com/certificates/538e807de265)
 - HackerRank: [JavaScript(Intermediate)](https://www.hackerrank.com/certificates/d9ba468cfc72)
 - HackerRank: [SQL(Intermediate)](https://www.hackerrank.com/certificates/e69ac2a46a4a)
+
+<br>
+<div align="start">
+  <h3>Let's Connect!</h3>
+  <p>Feel free to reach out for collaborations, discussions, or just to say hi! 🌟</p>
+</div>
