@@ -30,8 +30,8 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 - ⚙️ Testing: [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/), [Mocha](https://mochajs.org/), [Cypress](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
 
 ### In my learning list
- - 🌐 Backend: [KafkaJS](https://kafka.js.org/docs/getting-started)
- - ☁️ Cloud: [AWS](https://docs.aws.amazon.com/)
+ - [KafkaJS](https://kafka.js.org/docs/getting-started)
+ - [AWS](https://docs.aws.amazon.com/)
 
 ## Certifications
 
