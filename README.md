@@ -22,16 +22,31 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 - ⚡ Fun fact: My non-alcoholic drink of choice is a freshly brewed cup of <i>Coffee</i>. ☕
 
 ## Skills
-
-- 💻 Frontend: [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Material-UI](https://mui.com/), [Tailwind CSS](https://tailwindcss.com/)
-- 🌐 Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [GraphQL](https://graphql.org/)
-- 📱 Mobile: [React Native](https://reactnative.dev/)
-- 🛠️ Database: [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
-- ⚙️ Testing: [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/), [Mocha](https://mochajs.org/), [Cypress](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
+  [![React](https://skillicons.dev/icons?i=js)](https://reactjs.org/)
+  [![Next.js](https://skillicons.dev/icons?i=ts)](https://nextjs.org/)
+  [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+  [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+  [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+  [![Material-UI](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
+  [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+  [![Express](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
+  [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+  [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+  [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
+  [<img src='https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png' height='50px' alt='[Cypress]'/>](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
+  <!--[![Testing Library](https://skillicons.dev/icons?i=testing)](https://testing-library.com/)-->
+<!---- 💻 Frontend: -->
+<!---- 🌐 Backend: -->
+<!--- 📱 Mobile: -->
+<!---- 🛠️ Database:-->
+<!---- ⚙️ Testing: -->
 
 ### In my learning list
- - [KafkaJS](https://kafka.js.org/docs/getting-started)
- - [AWS](https://docs.aws.amazon.com/)
+  [![AWS](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
+  [![KafkaJS](https://skillicons.dev/icons?i=kafka)](https://kafka.js.org/docs/getting-started)
 
 ## Certifications
 
