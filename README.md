@@ -47,7 +47,7 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 ### In my learning list
   [![KafkaJS](https://skillicons.dev/icons?i=kafka)](https://kafka.js.org/docs/getting-started)
   [![AWS](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
-  [![Docker](https://skillicons.dev/icons?i=docker)](https://docs.aws.amazon.com/)
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/guides/get-started/)
 
 ## Certifications
 
