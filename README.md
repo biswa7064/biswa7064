@@ -52,8 +52,7 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 ## Certifications
 
 - Coursera: [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/verify/NE59PKQ59B9E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- HackerRank: [JavaScript(Basic)](https://www.hackerrank.com/certificates/538e807de265)
-- HackerRank: [JavaScript(Intermediate)](https://www.hackerrank.com/certificates/d9ba468cfc72)
+- HackerRank: [JS(Basic)](https://www.hackerrank.com/certificates/538e807de265), [JS(Intermediate)](https://www.hackerrank.com/certificates/d9ba468cfc72)
 - HackerRank: [SQL(Intermediate)](https://www.hackerrank.com/certificates/e69ac2a46a4a)
 
 <br>
