@@ -59,5 +59,6 @@ I'm a passionate and creative Full-Stack Developer with a strong foundation in w
 <br>
 <div align="start">
   <h3>Let's Connect!</h3>
-  <p>Feel free to reach out for collaborations, discussions, or just to say hi! 🌟</p>
+<!--   <p>Feel free to reach out for collaborations, discussions, or just to say hi! 🌟</p> -->
+  <p>Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas or to say Hi! 🌟</p>
 </div>
