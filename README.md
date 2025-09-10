@@ -14,12 +14,12 @@
 
 ## About Me
 
-I'm a passionate and creative Full-Stack Developer with a strong foundation in web and mobile app development. I'm always eager to learn new technologies and improve my skills. My goal is to create elegant and efficient solutions that make a positive impact.
+I'm a passionate Full-Stack Developer with 4.5+ years of experience building scalable web applications. Skilled in both frontend and backend, I specialize in the MERN stack and enjoy crafting clean, efficient, and impactful solutions. Always eager to learn and grow, I thrive in collaborative Agile environments.  
 
-- 🚀 Currently, I'm working with technologies like <i>React, Next.js, Node.js (Express), TypeScript, MongoDB, and Jest/RTL</i>, with hands-on experience in building <b>microservices</b> and delivering solutions in an <b>Agile environment</b>.  
-- 💬 Ask me about anything related to web and mobile development.
-- 📫 You can reach me at <i>biswaranjan.das694@gmail.com</i>.
-- ⚡ Fun fact: My non-alcoholic drink of choice is a freshly brewed cup of <i>Coffee</i>. ☕
+- 🚀 Currently working with <i>React, Next.js, Node.js (Express), TypeScript, MongoDB, and Jest/RTL</i>, with hands-on experience in <b>microservices</b> and performance optimization.  
+- 💬 Open to discussions on web development.  
+- 📫 Reach me at <i>biswaranjan.das694@gmail.com</i>.  
+- ☕ Fun fact: A freshly brewed cup of <i>Coffee</i> keeps me fueled.
 
 ## Skills
   [![React](https://skillicons.dev/icons?i=js)](https://reactjs.org/)
