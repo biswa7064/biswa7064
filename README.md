@@ -16,7 +16,7 @@
 
 I'm a passionate and creative Full-Stack Developer with a strong foundation in web and mobile app development. I'm always eager to learn new technologies and improve my skills. My goal is to create elegant and efficient solutions that make a positive impact.
 
-- 🚀 Currently I'm working with technologies like <i>React, NextJS, ReactNative, Nodejs, Express, Jest, and MongoDB</i>.
+- 🚀 Currently, I'm working with technologies like <i>React, Next.js, Node.js (Express), TypeScript, MongoDB, and Jest/RTL</i>, with hands-on experience in building <b>microservices</b> and delivering solutions in an <b>Agile environment</b>.  
 - 💬 Ask me about anything related to web and mobile development.
 - 📫 You can reach me at <i>biswaranjan.das694@gmail.com</i>.
 - ⚡ Fun fact: My non-alcoholic drink of choice is a freshly brewed cup of <i>Coffee</i>. ☕
