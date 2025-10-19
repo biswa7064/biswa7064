@@ -1,18 +1,16 @@
-<div align='center'>
-<h1>Hi there, I am Biswaranjan 👋</h1>
+<div align='start'>
+<h1>Hi There! 👋</h1>
 <p>
   <a href="https://www.linkedin.com/in/biswaranjan-das-3b403a171/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="https://twitter.com/biswadas_1997"><img src="https://img.shields.io/badge/Twitter-Follow-red"></a>
   <a href="https://www.instagram.com/biswadas_1997/"><img src="https://img.shields.io/badge/Instagram-Follow-violet"></a>
 </p>
-<h3>
+<!-- <h3>
   🚀 Full-Stack Developer | 🌱 Passionate Learner
-</h3>
+</h3> -->
 </div>
 
----
-
-## About Me
+<!-- ## About Me -->
 
 I'm a passionate Full-Stack Developer with 4.5+ years of experience building scalable web applications. Skilled in both frontend and backend, I specialize in the MERN stack and enjoy crafting clean, efficient, and impactful solutions. Always eager to learn and grow, I thrive in collaborative Agile environments.  
 
