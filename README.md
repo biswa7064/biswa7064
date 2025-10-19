@@ -32,11 +32,13 @@ I'm a passionate Full-Stack Developer with 4.5+ years of experience building sca
   [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
   [![Express](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
   [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
-  [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
   [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
   [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+  [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/docs/latest/develop/clients/nodejs/)
+  [![KafkaJS](https://skillicons.dev/icons?i=kafka)](https://kafka.js.org/docs/getting-started)
   [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
-  [<img src='https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png' height='50px' alt='[Cypress]'/>](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
+  <!-- [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/) -->
+  <!-- [<img src='https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png' height='50px' alt='[Cypress]'/>](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test) -->
   <!--[![Testing Library](https://skillicons.dev/icons?i=testing)](https://testing-library.com/)-->
 <!---- 💻 Frontend: -->
 <!---- 🌐 Backend: -->
@@ -45,10 +47,10 @@ I'm a passionate Full-Stack Developer with 4.5+ years of experience building sca
 <!---- ⚙️ Testing: -->
 
 ### In my learning list
-  [![KafkaJS](https://skillicons.dev/icons?i=kafka)](https://kafka.js.org/docs/getting-started)
+  [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/doc/)
   [![AWS](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
   [![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/guides/get-started/)
-  [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/docs/home/)
+  <!--[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/docs/home/)-->
 
 ## Certifications
 
