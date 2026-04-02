@@ -74,9 +74,10 @@ const biswaranjan = {
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### **Currently Learning** 📚
-![Jenkins](https://img.shields.io/badge/jenkins-232F3E?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-4B758B?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
 
 ---
 
